@@ -2,7 +2,7 @@
 
 let uniDivs=[]
 let unixs=[]
-let colours=["#EFEFEF","#FEC82C","#C32790","#F26022","#30B24A","#15909B","#0B4438","#2495D2","#CBB480","#9E9FA2"]
+let colours=["#EFEFEF","#red","#C32790","#F26022","#30B24A","#15909B","#0B4438","#2495D2","#CBB480","#9E9FA2",]
 
 const numUnicorns= 10
 let i=0
