@@ -13,6 +13,7 @@ while(i<numUnicorns){
     uniDivs[i].classList.add("unicorn")
     uniDivs[i].style.top=i*6+"%"
     uniDivs[i].style.backgroundColor=colours[i]
+    
 }
 
 // let uni0=document.getElementById("unicorn0")
