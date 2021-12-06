@@ -30,3 +30,11 @@
  width: 15px;
  height: 150px;
 }
+.unicorn{width:7vh;
+            height:5vh;
+            position:absolute;
+            background-image: url('/images/bg.png');
+            background-size:contain;
+            background-repeat: no-repeat;
+            
+}
