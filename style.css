@@ -1,0 +1,32 @@
+*{
+    margin: 1px;
+    padding: 0px;  
+}
+
+.unicorn{
+    width:2vh;
+    height:2vh;
+    position:absolute;
+}
+
+#unicorn0{
+    background-color: blue;
+    top: 0;
+}
+#unicorn1{
+    background-color: red;
+    top: 50px;
+}
+
+#unicorn2{
+    background-color: green;
+    top: 100px;
+}
+
+.finish{
+ background-color: grey;
+ position: absolute;
+ left: 90%;
+ width: 15px;
+ height: 150px;
+}
